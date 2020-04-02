@@ -1,0 +1,143 @@
+html,body {
+    margin: 0;
+    padding:0;
+    height: 100%;
+    width:100%
+  }
+.footer{
+   position: relative;
+   bottom: 0;
+   width: 100%;
+   height:177px;
+   clear: both;
+}
+.wrapper{
+    position:relative;
+    width:100%;
+    margin-top:200px;
+    padding:20px 130px;
+}
+.adress{
+    width:40%;
+}
+.adress1{
+    padding-bottom:80px;
+}
+.adress p{
+    line-height: 2rem;
+    text-indent:20px;
+    font-weight: 600;
+}
+.adress .p2{
+    padding-top:10px;
+}
+.adress .p5{
+    font-size:18px;
+    font-weight: 300;
+}
+.adress1 .title{
+    font-weight: bold;
+    font-size:16px;
+}
+.input{
+    display:block;
+    width:60%;
+    float:left;
+    border-top-style: none;
+    border-right-style: none;
+}
+.input .p1{
+    width:180px;
+    margin-top:20px;
+    border:5px solid #c0b594;
+    padding:15px 70px;
+}
+.input .p1:hover{
+    
+    background: #c0b594;
+    color:#fff;
+}
+.input .input1{
+    margin-bottom:40px;
+}
+.btn{
+    margin-top:40px;
+}
+.footer{
+    position:fixed;
+}
+@media (min-width:853px){
+    .input{
+        padding-left:40px;
+    }
+}
+@media (min-width:642px) and (max-width:853px){
+    .adress{
+        width:100%;
+    }
+    .input{
+        margin-top:40px;
+        width:100%;
+        padding-bottom: 200px;
+    }
+    .footer{
+        position: relative;
+    }
+}
+
+@media (min-width:542px) and (max-width:642px){
+    .wrapper{
+        width:100%;
+        padding:20px 80px;
+    }
+    .adress{
+        width:100%;
+    }
+    .input{
+        width:100%;
+        margin-top:40px;
+        padding-bottom: 200px;
+    }
+    .footer{
+        position: relative;
+    }
+}
+
+@media (min-width:400px) and (max-width:542px){
+    .wrapper{
+        width:100%;
+        padding:20px 40px;
+    }
+    .adress{
+        width:100%;
+    }
+    .input{
+        width:100%;
+        margin-top:40px;
+        padding-bottom: 200px;
+    }
+    .footer{
+        position: relative;
+        opacity: 1!important;
+    }
+}
+
+@media (max-width:400px){
+    .wrapper{
+        width:100%;
+        padding:10px 10px;
+    }
+    .adress{
+        width:100%;
+    }
+    .input{
+        width:100%;
+        margin-top:40px;
+        padding-bottom: 200px;
+    }
+    .footer{
+        position: relative;
+        padding: 35px 20px;
+        opacity: 1!important;
+    }
+}

@@ -1,0 +1,1971 @@
+
+.ppt1{
+    position: relative;
+    width:80%;
+    margin-top:60px;
+    margin:60px auto;
+    /* background:url("../images/company/bg.png") no-repeat top center;
+    background-size:80% 80%;  */
+    /* height:800px; */
+   
+}
+.ppt1 .ppt1_wrapper{
+    width:80%;
+    margin:auto;
+    /* height:auto; */
+}
+.ppt1 .ppt1_wrapper .img1{
+    position:absolute;
+    top:0;
+    left:0;
+}
+.ppt1 .ppt1_wrapper .img2{
+    position:absolute;
+    bottom:0;
+    left:0;
+}
+.ppt1 .ppt1_wrapper .img3{
+    position:absolute;
+    top:0;
+    right:0;
+}
+.ppt1 .ppt1_wrapper .img4{
+    position:absolute;
+    bottom:0;
+    right:0;
+}
+.ppt1_text{
+    text-align:center;
+    width:100%;
+    height:auto;
+    padding-bottom:100px;
+}
+
+.ppt1_text .ppt1_p1{
+    position: relative;
+    font-size: 5vw;
+    top: 89px;
+}
+
+.ppt1_text .ppt1_p2{
+    position: relative;
+    margin-top:120px;
+    font-size:5vw;
+    color:#dfc68e;
+}
+.ppt1_text .ppt1_p3{
+    font-size:3vw;
+    position: relative;
+    margin-top:156px;
+}  
+.ppt1_text .ppt1_p4,
+.ppt1_text .ppt1_p5{
+    font-size:1vw;
+    position: relative;
+    margin-top: 12px;
+}
+.ppt2{
+    position:relative;
+    width:90%;
+    height: auto;
+    background:url("../images/company/bg2.png") no-repeat;
+    background-size: cover;
+    margin:auto;
+    font-size:0;
+    padding-bottom:50px;
+}
+/* .img_box{
+  padding:0;
+  margin:0;
+} */
+.wrapper{
+    position: relative;
+    
+    width: 102.7%;
+    height:auto;
+    margin:auto;
+    display:block;
+    clear:both;
+    display: flex;
+}
+.wrapper:after{
+    content:"";
+    display:block;
+    /* padding-bottom:20%; */
+}
+/* .wrapper img{
+    max-width: 100%;
+} */
+.wrapper .img1{
+    position: relative;
+    top:0px;
+    left:0%;
+    /* max-width:175%; */
+    width:129%;
+    height:auto;
+}
+
+.wrapper .img2{
+    position: relative;
+    margin-top: 20%;
+    margin-left: 6%;
+    /* max-width: 154%; */
+    width: 129%;
+    height:auto;
+}
+
+.wrapper .img3{
+    position: relative;
+    margin-top: 155%;
+    margin-left: -94%;
+    width:129%;
+    height:auto;
+    flex-shrink: 1;
+}
+.wrapper .img4{
+    top:0px;
+    position: relative;
+    margin-left: -81.2%;
+    /* max-width:175%; */
+    width: 129%;
+    height:auto;
+}
+.wrapper .img5{
+    top:0px;
+    position: relative;
+    margin-left: -52.5%;
+    /* max-width:175%; */
+    width: 129%;
+    height:auto;
+}
+.wrapper .img6{
+    /* top:0px;
+    position: relative;
+    margin-left: -79%;
+    width:100%;
+    height:auto; */
+    position: relative;
+    margin-left: -15%;
+    top:0px;
+    /* max-width:129%; */
+    width: 129%;
+    height:100%;
+    object-fit: cover;
+}
+.wrapper .img7{
+    top:0px;
+    position: relative;
+    margin-left: 37%;
+    /* max-width:175%;
+    width:175%; */
+    width: 129%;
+    height:auto;
+}
+
+.wrapper .img8{
+    position: relative;
+    margin-left: -63%;
+    margin-top: 344%;
+    /* max-width:175%;
+    width:175%; */
+    width: 129%;
+    height:auto
+}
+/* .ppt2 .wrapper .img_box{
+    position:relative;
+    width:100%;
+    height:auto;
+} */
+
+.bg_box img{
+    position: absolute;
+    z-index:10;
+}
+
+.bg_img1 img{
+    z-index:99;
+}
+.img1 img{
+    z-index:20;
+}
+
+/* .text{
+    position:relative;
+} */
+.text img{
+    position: absolute;
+    margin-top: 6%;
+    margin-left: -64.4%;
+    width: 26%;
+    min-width:200px;
+    height: auto;
+    z-index: 999;
+}
+.text .p_box{
+    position: absolute;
+    margin-top: 8%;
+    margin-left: -63%;
+    z-index: 9999;
+}
+.text .p_box .p1 {
+    font-size: 5vw;
+    z-index: 9999999999999;
+    width:100%;
+}
+.text .p_box .p1:after{
+    content: "";
+    position: absolute;
+    bottom: -19px;
+    left: 42%;
+    height: 4px;
+    background: #000;
+    width: 63px;
+    height: 2px;
+}
+.p_box img{
+    position: absolute;
+    top: 307px;
+    left: 179px;
+    z-index: 9999999999999;
+}
+.text .p_box .p2{
+    font-size: 1vw;
+    position: absolute;
+    color: #dfc68e;
+    top: 145%;
+    left: 72px;
+    z-index: 9999999999999;
+    text-align: center;
+}
+
+
+.ppt3{
+    position:relative;
+    margin-top:50px;
+    margin-bottom: -30px;
+    width:100%;
+    background:url("../images/company/bg5.png") no-repeat;
+    /* background-size:100% auto; */
+    background-size:cover;
+    padding-top:90px;
+    padding-bottom: 75px;
+    display: flex;
+}
+.wrapper2{
+    position: relative;
+    width: 91%;
+    margin: auto;
+    height:100%;
+}
+.wrapper2 .img_box2{
+
+    width:25%;
+}
+.wrapper2 .img_box2:nth-child(6){
+    width:50%;
+}
+.wrapper2 .img_box2 img{
+    width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.wrapper2 .img_box2 .text_box2{
+    width: 100%;
+    height: 100%;
+    display:block;
+    font-size:3vw;
+    text-align:center;
+    position: relative;
+    margin-top:8%;
+}
+
+.ppt4{
+    position: relative;
+    width: 100%;
+    padding: 24% 0;
+    margin:auto;
+    text-align:center;
+    background:url("../images/company/bg3.png") no-repeat center;
+    background-size:100% auto;
+    clear:both;
+}
+.ppt4 .content{
+    margin-top:-4%;
+}
+.ppt4 .img1{
+    max-width:80%;
+    height:auto;
+    padding-top:40px;
+}
+.ppt4 .p1{
+    font-size:4vw;
+    font-weight: bold;
+}
+
+.ppt5{
+    margin:auto;
+    position: relative;
+    width:100%;
+    margin-top: -8%;
+}
+.ppt5_main{
+    width:80%;
+    margin:auto;
+}
+.ppt5_main .left{
+    width:50%;
+}
+.ppt5_main .right{
+    width:50%;
+}
+.ppt5 .left .p_box6,.ppt5 .right .p_box6{
+    /* width: 350px;
+    height: 300px; */
+    width:35%;
+    height:40%;
+    background: #dfc68d;
+    position: absolute;
+    /* top: 562px; */
+    bottom:105px;
+    line-height: 2;
+    font-size: 30px;
+    padding: 34px 51px 250px 34px;
+}
+.ppt5 .right .p_box6{
+    margin-left:12%;
+}
+.ppt5_main .p_box5{
+    position: relative;
+}
+.ppt5_main .right .p_box5{
+    float:right;
+}
+
+.ppt5_main .right .p_box5 .p3{
+    font-size: 70px;
+    right: 160px;
+    top: 30px;
+    letter-spacing: 1rem;
+    position: relative;
+}
+.ppt5_main .right .p_box5 .p1{
+    font-size: 59px;
+    color: #dfc68d;
+    left: 22px;
+    position: relative;
+}
+.ppt5_main .right .p_box5 .p2 {
+    font-size: 27px;
+    color: #dfc68d;
+    left: -164px;
+    top: 31px;
+    margin-top: 25px;
+    position: relative;
+}
+.ppt5_main .right .p_box5 .p3 {
+    font-size: 70px;
+    right: 160px;
+    top: 30px;
+    letter-spacing: 1rem;
+    position: relative;
+}
+.ppt5_main .right .p_box5 .p4 {
+    font-size: 25px;
+    left: -146px;
+    top: 39px;
+    position: relative;
+}
+.ppt5_main .left .p_box5 .p1{
+    font-size: 59px;
+    color: #dfc68d;
+    left: 31px;
+    position: relative;
+}
+
+.ppt5_main .left .p_box5 .p1:after{
+    content: '';               
+    position: absolute;         
+    bottom:-10px;
+    left:-16px;
+    background: #dfc68d;    
+    width: 205%;
+    height: 2px;
+}
+/* .ppt5_main .right .p_box5 .p1:after{
+    content: '';               
+    position: absolute;         
+    bottom:-10px;
+    right: -6px;
+    background: #dfc68d;    
+    width: 140%;
+    height: 2px;
+} */
+.ppt5_main .right .p_box5 .p2:before {
+    content: '';
+    position: absolute;
+    bottom: 79px;
+    right: -195px;
+    background: #dfc68d;
+    width: 540%;
+    height: 2px;
+}
+
+.ppt5_main .left .p_box5 .p2{
+    font-size: 27px;
+    color:#dfc68d;
+    left: 33px;
+    top: 22px;
+    position: relative;
+ }
+ .ppt5_main .left .p_box5 .p3{
+    font-size: 70px;
+    left: 31px;
+    top: 30px;
+    letter-spacing: 1rem;
+    position: relative;
+ }
+ .ppt5_main .left .p_box5 .p4{
+    font-size: 25px;
+    left: 31px;
+    top: 39px;
+    position: relative;
+ }
+ .ppt5_main .left .p_box5 span{
+     position:absolute;
+     background: #dfc68d;
+     width:15px;
+     height:15px;
+     border-radius: 50%;
+     left: 0px;
+    top: 78px;
+ }
+ .ppt5_main .right .p_box5 span{
+    position:absolute;
+    background: #dfc68d;
+    width:15px;
+    height:15px;
+    border-radius: 50%;
+    right: -45px;
+    top: 78px;
+}
+.right .img_box5{
+	width:82%;
+	margin-left: 22%;
+    position: relative;
+    min-height: 580px;
+}   
+.left .img_box5{
+	width:82%;
+	margin-left: 0%;
+    position: relative;
+    min-height: 580px;
+    z-index:10;
+}   
+
+.ppt5_main .right .img_box5 img{
+	width:100%;
+	display: block;
+	position: relative;
+    height: 100%;
+    object-fit: cover;
+    min-height: 580px;
+}
+.ppt5_main .right .img_box5 .bg_1{
+	position: absolute;
+	left: -4%;
+	top: -2%;
+	width: 17%;
+	height: 80%;
+	background: #dfc68d;
+}
+.ppt5_main .right .img_box5 .bg_2{
+	position: absolute;
+	right: -3%;
+	top: 22%;
+	width: 17%;
+	height: 80%;
+	background: #dfc68d;
+}
+.ppt5_main .left .img_box5 img{
+	width:100%;
+	display: block;
+	position: relative;
+    height: 100%;
+    object-fit: cover;
+    z-index: 10;
+    min-height: 580px;
+}
+.ppt5_main .left .img_box5 .bg_1{
+	position: absolute;
+	left: -4%;
+	top: -2%;
+	width: 17%;
+	height: 80%;
+	background: #dfc68d;
+}
+.ppt5_main .left .img_box5 .bg_2{
+	position: absolute;
+	right: -3%;
+	top: 22%;
+	width: 17%;
+	height: 80%;
+	background: #dfc68d;
+}
+.right .ppt5_img{
+    position: relative;
+    width: 106%;
+    left: 0px;
+}
+
+.ppt5_content{
+    position: relative;
+    padding-bottom:105px;
+}
+.ppt6{
+    position:relative;
+    width:100%;
+}
+.ppt6 .adress .left{
+    position: relative;
+    width: calc(50% + 80px);
+	/* height: 100%; */
+    margin-top: 33%;
+    
+    left:0;
+    float: left;
+    z-index:10;
+    display:block;
+}
+.ppt6 .adress .right{
+    width: calc(50% + 80px);
+    position: relative;
+    /* height: 100%; */
+    margin-top: -58.5%;
+    right:0;
+    float: right;
+    display:block;
+}
+
+.ppt6 .adress .right img{
+    width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.ppt6 .adress .left img{
+    width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.ppt6 .ppt6_bottom{
+   width:160px;
+   height:100px;
+   background:#dfc68d;
+   position: absolute;
+   top:0;
+   right:0;
+   z-index:9999;
+   display:block;
+}
+.ppt6 .ppt6_top{
+    width:160px;
+    height:100px;
+    background:#dfc68d;
+    position: absolute;
+    bottom:3px;
+    left:0;
+    z-index:9999;
+    display:block;
+ }
+ .ppt6 .text1{
+        position: absolute;
+        margin-left: 2%;
+        width: 74%;
+        top: -48%;
+        text-align: center;
+        font-size: 35px;
+        line-height: 1.5;
+ }
+ .ppt6 .text2{
+    position: absolute;
+    text-align: center;
+    align-items: center;
+    vertical-align: middle;
+    margin-left: 35%;
+    margin-top: 20%;
+    font-size: 20px;
+    line-height: 1.5;
+ }
+ .footer{
+     margin-top:-3px;
+ }
+@media (min-width: 1200px) and (max-width: 1300px) {
+    .ppt5_main .left .p_box5 .p1,
+    .ppt5_main .right .p_box5 .p1{
+       font-size:39px;
+    }
+    .ppt5_main .left .p_box5 .p2,
+    .ppt5_main .right .p_box5 .p2{
+        font-size:20px;
+    }
+    .ppt5_main .left .p_box5 .p3,
+    .ppt5_main .right .p_box5 .p3{
+        font-size:48px;
+    }
+    .ppt5_main .left .p_box5 .p4,
+    .ppt5_main .right .p_box5 .p4{
+        font-size:19px;
+    }
+    .ppt5_main .left .p_box5 span{
+        top:52px;
+    }
+    .ppt5_main .right .p_box5 span{
+        top: 60px;
+    }
+    .ppt5_main .right .p_box5 .p2:before{
+        bottom: 64px;
+    }
+    .right .img_box5{
+        height:700px;
+    }
+    .text .p_box .p2{
+        left: 40px;
+    }
+    .ppt5 .p_box6{
+        padding: 34px 51px 150px 34px;
+    }
+    .ppt6 .text1{
+        font-size: 26px;
+    }
+    .ppt6 .text2{
+        margin-top: 17%;
+        font-size: 17px;
+    }
+}
+
+@media (min-width: 1141px) and (max-width: 1200px) {
+    .ppt5_main .left .p_box5 .p1,
+    .ppt5_main .right .p_box5 .p1{
+       font-size:39px;
+    }
+    .ppt5_main .left .p_box5 .p2,
+    .ppt5_main .right .p_box5 .p2{
+        font-size:20px;
+    }
+    .ppt5_main .left .p_box5 .p3,
+    .ppt5_main .right .p_box5 .p3{
+        font-size:48px;
+    }
+    .ppt5_main .left .p_box5 .p4,
+    .ppt5_main .right .p_box5 .p4{
+        font-size:19px;
+    }
+    .ppt5_main .left .p_box5 span{
+        top:52px;
+    }
+    .ppt5_main .right .p_box5 span{
+        top: 60px;
+    }
+    .ppt5_main .right .p_box5 .p2:before{
+        bottom: 64px;
+    }
+    .text .p_box .p2{
+        left: 40px;
+    }
+    .text .p_box .p1:after{
+        left: 95px;
+    }
+    .ppt5 .right .p_box6{
+        top:45%;
+    }
+    .ppt6 .text1{
+        font-size: 22px;
+    }
+    .ppt6 .text2{
+        margin-top: 17%;
+        font-size: 16px;
+    }
+}
+@media (min-width: 1063px) and (max-width: 1141px){
+    .ppt5_main .left .p_box5 .p1,
+    .ppt5_main .right .p_box5 .p1{
+       font-size:39px;
+    }
+    .ppt5_main .left .p_box5 .p2,
+    .ppt5_main .right .p_box5 .p2{
+        font-size:20px;
+    }
+    .ppt5_main .left .p_box5 .p3,
+    .ppt5_main .right .p_box5 .p3{
+        font-size:48px;
+    }
+    .ppt5_main .left .p_box5 .p4,
+    .ppt5_main .right .p_box5 .p4{
+        font-size:19px;
+    }
+    .ppt5_main .left .p_box5 span{
+        top:52px;
+    }
+    .ppt5_main .right .p_box5 span{
+        top: 60px;
+    }
+    .ppt5_main .right .p_box5 .p2:before{
+        bottom: 64px;
+    }
+    .text .p_box .p2{
+        left: 32px;
+    }
+    .text .p_box .p1:after{
+        left: 81px;
+    }
+    .ppt5 .right .p_box6{
+        top:45%;
+    }
+    .ppt6 .text2{
+        margin-left: 31%;
+        margin-top: 12%;
+        font-size: 15px;
+    }
+    .ppt6 .text1{
+        font-size: 18px;
+    }
+}
+@media (min-width: 781px) and (max-width: 1063px) {
+    .ppt5_main .left .p_box5 .p1,
+    .ppt5_main .right .p_box5 .p1{
+       font-size:30px;
+    }
+    .ppt5_main .left .p_box5 .p2,
+    .ppt5_main .right .p_box5 .p2{
+        font-size:16px;
+    }
+    .ppt5_main .left .p_box5 .p3,
+    .ppt5_main .right .p_box5 .p3{
+        font-size:40px;
+    }
+    .ppt5_main .left .p_box5 .p4,
+    .ppt5_main .right .p_box5 .p4{
+        font-size:15px;
+    }
+    .text .p_box .p2{
+        left: 25px;
+    }
+    .text .p_box .p1:after{
+        left: 40%;
+        width: 40px;
+    }
+    .ppt5 .left .p_box6{
+        padding:8px;
+        font-size:20px;
+    }
+    .ppt5 .right .p_box6{
+        top:45%;
+        padding:8px;
+        font-size:20px;
+    }
+    .ppt5_main .right .p_box5 .p2,
+    .ppt5_main .right .p_box5 .p3,
+    .ppt5_main .right .p_box5 .p4{
+        left:-91px;
+    }
+    .ppt5_main .right .p_box5 .p2:before{
+        right: -123px;
+        width: 500%;
+        bottom: 65px;
+    }
+    .ppt5_main .left .p_box5 span{
+        top: 42px;
+    }
+    .ppt5_main .right .p_box5 span{
+        top: 44px;
+    }
+    .ppt6 .adress .left{
+        margin-top:25%;
+    }
+    .ppt6 .text1{
+        margin-left: -1%;
+        top: -42%;
+        font-size: 18px;
+    }
+    .ppt6 .text2{
+        margin-left: 35%;
+        margin-top: 8%;
+        font-size:14px;
+    }
+}
+@media (min-width: 733px) and (max-width: 781px) {
+    .ppt1_text .ppt1_p1{
+        font-size:40px;
+    }
+    .ppt1_text .ppt1_p2{
+        font-size:45px;
+    }
+    .ppt1_text .ppt1_p3{
+        font-size:30px;
+    }
+    .ppt1_text .ppt1_p4,
+    .ppt1_text .ppt1_p5
+    {
+        font-size:16px;
+    }
+    .text .p_box .p2{
+        left: 1px;
+    }
+    .text .p_box .p1:after{
+        left: 59px;
+        width: 40px;
+    }
+    .wrapper2 .img_box2:nth-child(6){
+        position:absolute;
+        width:100%;
+        height:auto;
+    }
+    .wrapper2 .img_box2{
+        width:50%;
+    }
+    .wrapper2 .img_box2 .text_box2{
+        width:100%;
+        height:auto;
+        margin-top: -12%;
+    }
+    .ppt5 .ppt5_main{
+        width: 90%;
+    }
+    .ppt5 .left .p_box6{
+        padding:5px;
+    }
+    .ppt5 .right .p_box6,
+    .ppt5 .left .p_box6{
+        top:45%;
+        padding:8px;
+        font-size:16px;
+    }
+    .ppt5_main .left .p_box5 .p1,
+    .ppt5_main .right .p_box5 .p1{
+       font-size:29px;
+    }
+    .ppt5_main .left .p_box5 .p2,
+    .ppt5_main .right .p_box5 .p2{
+        font-size:16px;
+    }
+    .ppt5_main .left .p_box5 .p3,
+    .ppt5_main .right .p_box5 .p3{
+        font-size:34px;
+    }
+    .ppt5_main .left .p_box5 .p4,
+    .ppt5_main .right .p_box5 .p4{
+        font-size:14px;
+    }
+    .ppt5_main .right .p_box5 .p2,
+    .ppt5_main .right .p_box5 .p3,
+    .ppt5_main .right .p_box5 .p4{
+        left:-91px;
+    }
+    .ppt5_main .left .p_box5 span{
+        top: 41px;
+    }
+    .ppt5_main .right .p_box5 span{
+        right: -32px;
+        top: 45px;
+    }
+    .ppt5_main .right .p_box5 .p2:before{
+        width:500%;
+        right: -117px;
+        bottom: 63px;
+    }
+    .ppt6 .ppt6_bottom,
+    .ppt6 .ppt6_top{
+        display:none;
+    }
+    .ppt6 .adress .left{
+        margin-top:15%;
+        width: 100%;
+    }
+    .ppt6 .adress .right{
+        position: relative;
+        width: 100%;
+        margin-top: 11.5%;
+    }
+    .ppt6 .text1 {
+        margin-left: 0;
+        text-align: center;
+        width: 100%;
+        top: -19%;
+        font-size: 22px;
+    }
+    .ppt6 .text2 {
+        margin-left: 0%;
+        margin-top: -71%;
+        width: 100%;
+        font-size:18px;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 733px){
+    .ppt1_text .ppt1_p1{
+        font-size:35px;
+    }
+    .ppt1_text .ppt1_p2{
+        font-size:40px;
+    }
+    .ppt1_text .ppt1_p3{
+        font-size:25px;
+    }
+    .ppt1_text .ppt1_p4,
+    .ppt1_text .ppt1_p5
+    {
+        font-size:16px;
+    }
+    .text .p_box .p1:after{
+        left: 41%;
+        width:40px;
+    }
+    .text .p_box .p1{
+        margin-left: 6%;
+    }
+    .text .p_box .p2{
+        left: 1px;
+    }
+    .wrapper{
+        width: 106.7%;
+    }
+    .text .p_box{
+        margin-top: 34%;
+    }
+    .text img {
+        position: absolute;
+        margin-top: 31%;
+        margin-left: -69.4%;
+        width: 37%;
+        min-width: 200px;
+    }
+    .text .p_box .p2{
+        top: 209%;
+        left: 10px;
+    }
+    .wrapper .img1{
+        width:200%;
+    }
+    .wrapper .img2{
+        margin-top: 20%;
+        margin-left: 22%;
+        width: 200%;
+    }
+    .wrapper .img3 {
+        position: relative;
+        margin-top: 231%;
+        margin-left: -79%;
+        width: 200%;
+        height: auto;}
+    .wrapper .img4 {
+        top: 0px;
+        position: relative;
+        margin-left: 27.8%;
+        width: 200%;
+        height: auto;
+        }
+    .wrapper .img5 {
+        top: 0px;
+        position: relative;
+        margin-left: 128.5%;
+        width: 200%;
+        height: auto;
+        }
+    .wrapper .img6 {
+        position: relative;
+        margin-left: -269%;
+        margin-top: 349%;
+        width: 200%;
+        height: auto;
+        object-fit: cover;
+        }
+    .wrapper .img7 {
+        margin-top: 1010%;
+        position: relative;
+        margin-left: -453%;
+        width: 200%;
+        height: auto;
+        }
+    .wrapper .img8 {
+        position: relative;
+        margin-left: -547%;
+        margin-top: 1507%;
+        width: 200%;
+        height: auto;
+        }
+    .wrapper2 .img_box2:nth-child(6){
+        position:absolute;
+        width:100%;
+        height:auto;
+        }
+    .wrapper2 .img_box2{
+        width:50%;
+        }
+    .wrapper2 .img_box2 .text_box2{
+        width:100%;
+        height:auto;
+        margin-top: -12%;
+        }
+    .ppt5 .ppt5_main{
+        width: 90%;
+    }
+    .ppt5_main .right{
+        margin-left: -15px;
+    }
+    .ppt5 .left .p_box6{
+        height: 30%;
+        padding: 5px;
+        font-size:18px;
+    }
+    .ppt5 .right .p_box6{
+        height: 30%;
+        padding: 5px;
+        font-size:18px;
+    }
+    .ppt5_main .left .p_box5 .p1,
+    .ppt5_main .right .p_box5 .p1{
+       font-size:27px;
+    }
+    .ppt5_main .left .p_box5 .p2,
+    .ppt5_main .right .p_box5 .p2{
+        font-size:15px;
+    }
+    .ppt5_main .left .p_box5 .p3,
+    .ppt5_main .right .p_box5 .p3{
+        font-size:31px;
+    }
+    .ppt5_main .left .p_box5 .p4,
+    .ppt5_main .right .p_box5 .p4{
+        font-size:13px;
+    }
+    .ppt5_main .right .p_box5 .p2,
+    .ppt5_main .right .p_box5 .p3,
+    .ppt5_main .right .p_box5 .p4{
+        left:-91px;
+    }
+    .ppt5_main .left .p_box5 span{
+        top: 38px;
+    }
+    .ppt5_main .right .p_box5 span{
+        top: 43px;
+        right: -35px;
+    }
+    .ppt5_main .right .p_box5 .p2:before{
+        right: -115px;
+        width: 440%;
+        bottom: 60px;
+    }
+    .ppt6 .ppt6_bottom,
+    .ppt6 .ppt6_top{
+        display:none;
+    }
+    .ppt6 .adress .left{
+        margin-top:15%;
+        width: 100%;
+    }
+    .ppt6 .adress .right{
+        position: relative;
+        width: 100%;
+        margin-top: 11.5%;
+    }
+    .ppt6 .text1 {
+        margin-left: 0;
+        text-align: center;
+        width: 100%;
+        top: -23%;
+        font-size: 22px;
+    }
+    .ppt6 .text2 {
+        margin-left: 0%;
+        margin-top: -73%;
+        width: 100%;
+        font-size:18px;
+    }
+}
+@media (min-width: 500px) and (max-width: 600px){
+    .ppt1_text .ppt1_p1{
+        font-size:33px;
+    }
+    .ppt1_text .ppt1_p2{
+        font-size:36px;
+    }
+    .ppt1_text .ppt1_p3{
+        font-size:23px;
+    }
+    .ppt1_text .ppt1_p4,
+    .ppt1_text .ppt1_p5
+    {
+        font-size:14px;
+    }
+    .text .p_box .p1:after{
+        width:35px;
+        left:41%;
+    }
+    .wrapper{
+        width: 106.7%;
+    }
+    .text .p_box{
+        margin-top: 34%;
+    }
+
+    .text img {
+        position: absolute;
+        margin-top: 31%;
+        margin-left: -69.4%;
+        width: 26%;
+        min-width: 200px;
+    }
+    .text .p_box .p1{
+        font-size: 28px;
+        margin-left: 4%;
+    }
+    .text .p_box .p2{
+        top: 209%;
+        left: 7px;
+    }
+    .wrapper .img1{
+        width:200%;
+    }
+    .wrapper .img2{
+        margin-top: 20%;
+        margin-left: 22%;
+        width: 200%;
+    }
+    .wrapper .img3 {
+        position: relative;
+        margin-top: 231%;
+        margin-left: -79%;
+        width: 200%;
+        height: auto;}
+    .wrapper .img4 {
+        top: 0px;
+        position: relative;
+        margin-left: 27.8%;
+        width: 200%;
+        height: auto;
+        }
+    .wrapper .img5 {
+        top: 0px;
+        position: relative;
+        margin-left: 128.5%;
+        width: 200%;
+        height: auto;
+        }
+    .wrapper .img6 {
+        position: relative;
+        margin-left: -269%;
+        margin-top: 349%;
+        width: 200%;
+        height: auto;
+        object-fit: cover;
+        }
+    .wrapper .img7 {
+        margin-top: 1010%;
+        position: relative;
+        margin-left: -453%;
+        width: 200%;
+        height: auto;
+        }
+    .wrapper .img8 {
+        position: relative;
+        margin-left: -547%;
+        margin-top: 1507%;
+        width: 200%;
+        height: auto;
+        }
+        .wrapper2 .img_box2:nth-child(6){
+            position:absolute;
+            width:100%;
+            height:auto;
+        }
+        .wrapper2 .img_box2{
+            width:50%;
+        }
+        .wrapper2 .img_box2 .text_box2{
+            width:100%;
+            height:auto;
+            font-size:20px;
+            margin-top: -12%;
+        }
+    .ppt5 .ppt5_main{
+        width: 90%;
+        }
+    .ppt5_main .left,
+    .ppt5_main .right {
+        width: 80%;
+        }
+        .right .img_box5 {
+            width: 100%;
+            margin-left: 12%;
+            margin-top: 40px;
+            position: relative;
+            height:100%;
+            min-height:0;
+        }
+        .left .img_box5 {
+            width: 100%;
+            margin-left: 12%;
+            margin-top: 40px;
+            position: relative;
+            height:100%;
+            min-height:0;
+        }
+        .ppt5_main .right .img_box5 img,
+        .ppt5_main .left .img_box5 img{
+            min-height:0;
+        }
+        .ppt5 .left .p_box6 {
+            height: 30%;
+            position: absolute;
+            width: 82%;
+            bottom: -399px;
+            margin-left: 10%;
+            line-height: 2;
+            font-size: 30px;
+            padding: 34px 51px 250px 34px;
+            top: 98%;
+            font-size:18px;
+        }
+    .ppt5_main .p_box5{
+        margin-bottom:50px;
+    }
+    .ppt5_main .right .p_box5 {
+        float: right;
+        margin-top: -203%;
+    }
+    .left .img_box5 {
+        width: 100%;
+        margin-left: 12%;
+        margin-top: 133%;
+        height: 100%;
+        min-height: 0;
+    }
+    .ppt5 .right .p_box6 {
+        margin-left: 10%;
+        top: 98%;
+        width:82%;
+        height: 20%;
+        padding: 34px 51px 250px 34px;
+        bottom: -399px;
+        font-size:18px;
+    }
+    .ppt5_main .right .p_box5 .p2:before{
+        bottom: 56px;
+    }
+    .ppt5_main .left .p_box5 .p1,
+    .ppt5_main .right .p_box5 .p1{
+       font-size:25px;
+    }
+    .ppt5_main .left .p_box5 .p2,
+    .ppt5_main .right .p_box5 .p2{
+        font-size:15px;
+    }
+    .ppt5_main .left .p_box5 .p3,
+    .ppt5_main .right .p_box5 .p3{
+        font-size:28px;
+    }
+    .ppt5_main .left .p_box5 .p4,
+    .ppt5_main .right .p_box5 .p4{
+        font-size:13px;
+    }
+    .ppt5_main .left .p_box5 span{
+        top: 35px;
+    }
+    .ppt5_main .right .p_box5 span{
+        top: 45px;
+    }
+    .ppt6 .ppt6_bottom,
+    .ppt6 .ppt6_top{
+        display:none;
+    }
+    .ppt6 .adress .left{
+        margin-top:73%;
+        width: 100%;
+    }
+    .ppt6 .adress .right{
+        position: relative;
+        width: 100%;
+        margin-top: 11.5%;
+    }
+    .ppt6 .text1 {
+        margin-left: 0;
+        text-align: center;
+        width: 100%;
+        top: -21%;
+        font-size: 20px;
+    }
+    .ppt6 .text2 {
+        margin-left: 0%;
+        margin-top: -74%;
+        width: 100%;
+        font-size:16px;
+    }
+}
+@media (min-width: 400px) and (max-width: 500px){
+    .ppt1_text .ppt1_p1{
+        font-size:28px;
+    }
+    .ppt1_text .ppt1_p2{
+        font-size:31px;
+    }
+    .ppt1_text .ppt1_p3{
+        font-size:20px;
+    }
+    .ppt1_text .ppt1_p4,
+    .ppt1_text .ppt1_p5
+    {
+        font-size:10px;
+    }
+    .wrapper{
+        width: 106.7%;
+    }
+    .text .p_box{
+        margin-top: 34%;
+    }
+    .text img {
+        position: absolute;
+        margin-top: 31%;
+        margin-left: -70.4%;
+        width: 26%;
+        min-width: 200px;
+    }
+    .text .p_box .p1{
+        font-size: 28px;
+        margin-left: 6%;
+    }
+    .text .p_box .p1:after{
+        left: 41%;
+        width: 35px;
+    }
+    .text .p_box .p2{
+        top: 209%;
+        left: 8px;
+        width: 100%;
+    }
+    .wrapper .img1{
+        width:200%;
+    }
+    .wrapper .img2{
+        margin-top: 20%;
+        margin-left: 22%;
+        width: 200%;
+    }
+    .wrapper .img3 {
+        position: relative;
+        margin-top: 231%;
+        margin-left: -79%;
+        width: 200%;
+        height: auto;}
+    .wrapper .img4 {
+        top: 0px;
+        position: relative;
+        margin-left: 27.8%;
+        width: 200%;
+        height: auto;
+        }
+    .wrapper .img5 {
+        top: 0px;
+        position: relative;
+        margin-left: 128.5%;
+        width: 200%;
+        height: auto;
+        }
+    .wrapper .img6 {
+        position: relative;
+        margin-left: -269%;
+        margin-top: 349%;
+        width: 200%;
+        height: auto;
+        object-fit: cover;
+        }
+    .wrapper .img7 {
+        margin-top: 1010%;
+        position: relative;
+        margin-left: -453%;
+        width: 200%;
+        height: auto;
+        }
+    .wrapper .img8 {
+        position: relative;
+        margin-left: -547%;
+        margin-top: 1507%;
+        width: 200%;
+        height: auto;
+        }
+        .wrapper2 .img_box2:nth-child(6){
+            position:absolute;
+            width:100%;
+            height:auto;
+        }
+        .wrapper2 .img_box2{
+            width:50%;
+        }
+        .wrapper2 .img_box2 .text_box2{
+            width:100%;
+            height:auto;
+            font-size:20px;
+            margin-top: -14%;
+        }
+        .ppt5 .ppt5_main{
+            width: 90%;
+            }
+        .ppt5_main .left,
+        .ppt5_main .right {
+            width: 80%;
+            }
+            .right .img_box5 {
+                width: 100%;
+                margin-left: 12%;
+                margin-top: 33px;
+                position: relative;
+                height:100%;
+                min-height:0;
+            }
+            .ppt5_main .right .img_box5 img,
+            .ppt5_main .left .img_box5 img{
+                min-height:0;
+            }
+            .ppt5 .left .p_box6 {
+                height: 20%;
+                position: absolute;
+                width: 82%;
+                bottom: -235px;
+                margin-left: 10%;
+                line-height: 2;
+                font-size: 30px;
+                padding: 34px 51px 250px 34px;
+                font-size:14px;
+            }
+            .ppt5_main .p_box5{
+                margin-bottom:50px;
+            }
+            .ppt5_main .right .p_box5 {
+                float: right;
+                margin-top: -217%;
+            }
+            .left .img_box5 {
+                width: 100%;
+                margin-left: 12%;
+                margin-top: 160%;
+                height: 100%;
+                min-height: 0;
+            }
+            .ppt5 .right .p_box6 {
+                margin-left: 10%;
+                top: 98%;
+                width:82%;
+                height: 20%;
+                padding: 34px 51px 250px 34px;
+                margin-top: -29px;
+                font-size:14px;
+            }
+        .ppt5_main .right .p_box5 .p2,
+        .ppt5_main .right .p_box5 .p3,
+        .ppt5_main .right .p_box5 .p4{
+            left: -45px;
+        }
+        .ppt5_main .right .p_box5 .p2:before{
+            right: -78px;
+            bottom: 62px;
+        }
+        .ppt5_main .left .p_box5 .p1,
+        .ppt5_main .right .p_box5 .p1{
+       font-size:20px;
+    }
+        .ppt5_main .left .p_box5 .p2,
+        .ppt5_main .right .p_box5 .p2{
+        font-size:13px;
+    }
+    .ppt5_main .left .p_box5 .p3,
+    .ppt5_main .right .p_box5 .p3{
+        font-size:23px;
+    }
+    .ppt5_main .left .p_box5 .p4,
+    .ppt5_main .right .p_box5 .p4{
+        font-size:12px;
+    }
+    .ppt5_main .left .p_box5 span{
+        top: 27px;
+    }
+    .ppt5_main .right .p_box5 span{
+        top: 29px;
+    }
+        .ppt6 .ppt6_bottom,
+        .ppt6 .ppt6_top{
+            display:none;
+        }
+        .ppt6 .adress .left{
+            margin-top:89%;
+            width: 100%;
+        }
+        .ppt6 .adress .right{
+            position: relative;
+            width: 100%;
+            margin-top: 15.5%;
+        }
+        .ppt6 .text1 {
+            margin-left: 0;
+            text-align: center;
+            width: 100%;
+            top: -25%;
+            font-size: 18px;
+        }
+        .ppt6 .text2 {
+            margin-left: 0%;
+            margin-top: -76%;
+            width: 100%;
+            font-size:14px;
+        }
+}
+
+@media (min-width: 300px) and (max-width: 400px){
+    .ppt1_text .ppt1_p1{
+        font-size:24px;
+    }
+    .ppt1_text .ppt1_p2{
+        font-size:27px;
+    }
+    .ppt1_text .ppt1_p3{
+        font-size:18px;
+    }
+    .ppt1_text .ppt1_p4,
+    .ppt1_text .ppt1_p5
+    {
+        font-size:8px;
+    }
+    .wrapper{
+        width: 106.7%;
+    }
+    .text .p_box{
+        margin-top: 34%;
+    }
+    .text img {
+        position: absolute;
+        margin-top: 31%;
+        margin-left: -81.4%;
+        width: 26%;
+        min-width: 200px;
+    }
+    .text .p_box .p1{
+        font-size: 28px;
+        margin-left: -14%;
+    }
+    .text .p_box .p1:after{
+        left: 26px;
+        width: 35px;
+    }
+    .text .p_box .p2{
+        top: 209%;
+        margin-left: -84%;
+        width: 100%;
+    }
+    .wrapper .img1{
+        width:200%;
+    }
+    .wrapper .img2{
+        margin-top: 20%;
+        margin-left: 22%;
+        width: 200%;
+    }
+    .wrapper .img3 {
+        position: relative;
+        margin-top: 231%;
+        margin-left: -79%;
+        width: 200%;
+        height: auto;}
+    .wrapper .img4 {
+        top: 0px;
+        position: relative;
+        margin-left: 27.8%;
+        width: 200%;
+        height: auto;
+        }
+    .wrapper .img5 {
+        top: 0px;
+        position: relative;
+        margin-left: 128.5%;
+        width: 200%;
+        height: auto;
+        }
+    .wrapper .img6 {
+        position: relative;
+        margin-left: -269%;
+        margin-top: 349%;
+        width: 200%;
+        height: auto;
+        object-fit: cover;
+        }
+    .wrapper .img7 {
+        margin-top: 1010%;
+        position: relative;
+        margin-left: -453%;
+        width: 200%;
+        height: auto;
+        }
+    .wrapper .img8 {
+        position: relative;
+        margin-left: -547%;
+        margin-top: 1507%;
+        width: 200%;
+        height: auto;
+        }
+        .wrapper2 .img_box2:nth-child(6){
+            position:absolute;
+            width:100%;
+            height:auto;
+        }
+        .wrapper2 .img_box2{
+            width:50%;
+        }
+        .wrapper2 .img_box2 .text_box2{
+            width:100%;
+            height:auto;
+            font-size: 18px;
+            margin-top: -16%;
+        }
+        .ppt4{
+            padding: 18% 0;
+        }
+        .ppt5 .ppt5_main{
+            width: 90%;
+            }
+        .ppt5_main .left {
+            width: 80%;
+            }
+            .ppt5_main .right{
+                width: 80%;
+            }
+            .right .img_box5 {
+                width: 100%;
+                margin-left: 12%;
+                margin-top: -21px;
+                position: relative;
+                height:100%;
+                min-height:0;
+            }
+            .ppt5_main .right .img_box5 img,
+            .ppt5_main .left .img_box5 img{
+                min-height:0;
+            }
+            .ppt5 .left .p_box6 {
+                height: 40%;
+                position: absolute;
+                width: 82%;
+                bottom: -283px;
+                margin-left: 10%;
+                line-height: 2;
+                font-size: 30px;
+                padding: 34px 51px 250px 34px;
+                font-size:14px;
+            }
+            .ppt5 .right .p_box6 {
+                height: 40%;
+                position: absolute;
+                width: 82%;
+                bottom: -283px;
+                margin-left: 10%;
+                line-height: 2;
+                font-size: 30px;
+                padding: 34px 51px 250px 34px;
+                font-size:14px;
+            }
+            .ppt5_main .p_box5{
+                margin-bottom:100px;
+            }
+            .ppt5_main .right .p_box5 {
+                float: right;
+                margin-top: -231%;
+            }
+            .left .img_box5 {
+                width: 100%;
+                margin-left: 12%;
+                margin-top: 209%;
+                height: 100%;
+                min-height: 0;
+            }
+            .ppt5 .right .p_box6 {
+                margin-left: 10%;
+                top: 98%;
+                width:82%;
+                height: 20%;
+                padding: 34px 51px 250px 34px;
+                bottom: -399px;
+                font-size:14px;
+            }
+            .ppt5_content{
+                padding-bottom: 59px;
+            }
+        .ppt5_main .right .p_box5 .p2,
+        .ppt5_main .right .p_box5 .p3,
+        .ppt5_main .right .p_box5 .p4{
+            left: -45px;
+        }
+        .ppt5_main .right .p_box5 .p2:before{
+            right: -78px;
+            bottom: 64px;
+        }
+        .ppt5_main .left .p_box5 .p1,
+        .ppt5_main .right .p_box5 .p1{
+       font-size:20px;
+    }
+        .ppt5_main .left .p_box5 .p2,
+        .ppt5_main .right .p_box5 .p2{
+        font-size:13px;
+    }
+    .ppt5_main .left .p_box5 .p3,
+    .ppt5_main .right .p_box5 .p3{
+        font-size:23px;
+    }
+    .ppt5_main .left .p_box5 .p4,
+    .ppt5_main .right .p_box5 .p4{
+        font-size:12px;
+    }
+    .ppt5_main .left .p_box5 span{
+        top: 27px;
+    }
+    .ppt5_main .right .p_box5 span{
+        top: 26px;
+    }
+        .ppt6 .ppt6_bottom,
+        .ppt6 .ppt6_top{
+            display:none;
+        }
+        .ppt6 .adress .left{
+            margin-top:121%;
+            width: 100%;
+        }
+        .ppt6 .adress .right{
+            position: relative;
+            width: 100%;
+            margin-top: 19.5%;
+        }
+        .ppt6 .text1 {
+            margin-left: 0;
+            text-align: center;
+            width: 100%;
+            top: -33%;
+            font-size: 20px;
+        }
+        .ppt6 .text2 {
+            margin-left: 0%;
+            margin-top: -81%;
+            width: 100%;
+            font-size:14px;
+        }
+        
+}
+@media (max-width: 300px){
+    .ppt1_text .ppt1_p1{
+        font-size:24px;
+    }
+    .ppt1_text .ppt1_p2{
+        font-size:27px;
+    }
+    .ppt1_text .ppt1_p3{
+        font-size:18px;
+    }
+    .ppt1_text .ppt1_p4,
+    .ppt1_text .ppt1_p5
+    {
+        font-size:8px;
+    }
+    .wrapper{
+        width: 106.7%;
+    }
+    .text .p_box{
+        margin-top: 34%;
+    }
+    .text img {
+        position: absolute;
+        margin-top: 31%;
+        margin-left: -81.4%;
+        width: 26%;
+        min-width: 200px;
+    }
+    .text .p_box .p1{
+        font-size: 28px;
+        margin-left: -5%;
+    }
+    .text .p_box .p1:after{
+        left: 26px;
+    }
+    .text .p_box .p2{
+        top: 209%;
+        margin-left: -26%;
+    }
+    .wrapper .img1{
+        width:200%;
+    }
+    .wrapper .img2{
+        margin-top: 20%;
+        margin-left: 22%;
+        width: 200%;
+    }
+    .wrapper .img3 {
+        position: relative;
+        margin-top: 231%;
+        margin-left: -79%;
+        width: 200%;
+        height: auto;}
+    .wrapper .img4 {
+        top: 0px;
+        position: relative;
+        margin-left: 27.8%;
+        width: 200%;
+        height: auto;
+        }
+    .wrapper .img5 {
+        top: 0px;
+        position: relative;
+        margin-left: 128.5%;
+        width: 200%;
+        height: auto;
+        }
+    .wrapper .img6 {
+        position: relative;
+        margin-left: -269%;
+        margin-top: 349%;
+        width: 200%;
+        height: auto;
+        object-fit: cover;
+        }
+    .wrapper .img7 {
+        margin-top: 1010%;
+        position: relative;
+        margin-left: -453%;
+        width: 200%;
+        height: auto;
+        }
+    .wrapper .img8 {
+        position: relative;
+        margin-left: -547%;
+        margin-top: 1507%;
+        width: 200%;
+        height: auto;
+        }
+        .wrapper2 .img_box2:nth-child(6){
+            position:absolute;
+            width:100%;
+            height:auto;
+        }
+        .wrapper2 .img_box2{
+            width:50%;
+        }
+        .wrapper2 .img_box2 .text_box2{
+            width:100%;
+            height:auto;
+            margin-top: -12%;
+        }
+        .ppt5 .ppt5_main{
+            width: 90%;
+            }
+        .ppt5_main .left {
+            width: 80%;
+            }
+            .ppt5_main .right{
+                width: 80%;
+            }
+            .right .img_box5 {
+                width: 100%;
+                margin-left: 12%;
+                margin-top: -21px;
+                position: relative;
+                height:100%;
+                min-height:0;
+            }
+            .ppt5_main .right .img_box5 img,
+            .ppt5_main .left .img_box5 img{
+                min-height:0;
+            }
+            .ppt5 .left .p_box6 {
+                height: 40%;
+                position: absolute;
+                width: 82%;
+                bottom: -283px;
+                margin-left: 10%;
+                line-height: 2;
+                font-size: 30px;
+                padding: 34px 51px 250px 34px;
+            }
+            .ppt5 .right .p_box6 {
+                height: 40%;
+                position: absolute;
+                width: 82%;
+                bottom: -283px;
+                margin-left: 10%;
+                line-height: 2;
+                font-size: 30px;
+                padding: 34px 51px 250px 34px;
+            }
+            .ppt5_main .p_box5{
+                margin-bottom:100px;
+            }
+            .ppt5_main .right .p_box5 {
+                float: right;
+                margin-top: -297%;
+            }
+            .left .img_box5 {
+                width: 100%;
+                margin-left: 12%;
+                margin-top: 292%;
+                height: 100%;
+                min-height: 0;
+            }
+            .ppt5 .right .p_box6 {
+                margin-left: 10%;
+                top: 98%;
+                width:82%;
+                height: 20%;
+                padding: 34px 51px 250px 34px;
+                bottom: -399px;
+            }
+        .ppt5_main .right .p_box5 .p2,
+        .ppt5_main .right .p_box5 .p3,
+        .ppt5_main .right .p_box5 .p4{
+            left: -45px;
+        }
+        .ppt5_main .right .p_box5 .p2:before{
+            right: -78px;
+        }
+        .ppt5_main .left .p_box5 .p1,
+        .ppt5_main .right .p_box5 .p1{
+       font-size:30px;
+    }
+        .ppt5_main .left .p_box5 .p2,
+        .ppt5_main .right .p_box5 .p2{
+        font-size:17px;
+    }
+    .ppt5_main .left .p_box5 .p3,
+    .ppt5_main .right .p_box5 .p3{
+        font-size:38px;
+    }
+    .ppt5_main .left .p_box5 .p4,
+    .ppt5_main .right .p_box5 .p4{
+        font-size:15px;
+    }
+        .ppt6 .ppt6_bottom,
+        .ppt6 .ppt6_top{
+            display:none;
+        }
+        .ppt6 .adress .left{
+            margin-top:121%;
+            width: 100%;
+        }
+        .ppt6 .adress .right{
+            position: relative;
+            width: 100%;
+            margin-top: 19.5%;
+        }
+        .ppt6 .text1 {
+            margin-left: 0;
+            text-align: center;
+            width: 100%;
+            top: -33%;
+            font-size: 20px;
+        }
+        .ppt6 .text2 {
+            margin-left: 0%;
+            margin-top: -81%;
+            width: 100%;
+            font-size:14px;
+        }
+}
